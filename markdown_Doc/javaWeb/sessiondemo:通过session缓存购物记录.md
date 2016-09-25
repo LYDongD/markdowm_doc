@@ -17,13 +17,13 @@ _Q1：_  jsp文件放在哪里可以通过/{projectName}/...的Url直接访问?
 2 **使用session缓存商品购买数量**
 
 关于session的缓存机制，可以参考文章：
-<a>http://blog.csdn.net/rongwenbin/article/details/51784517</a>
+<http://blog.csdn.net/rongwenbin/article/details/51784517>
 
 3 **使用maven插件热部署war到tomcat上**
 
  集成tomcat插件:mvn tomcat7:deploy/run
 
- 详见：<a>http://www.cnblogs.com/alexck/archive/2013/11/13/3421922.html</a>
+ 详见：<http://www.cnblogs.com/alexck/archive/2013/11/13/3421922.html>
  
 
  
