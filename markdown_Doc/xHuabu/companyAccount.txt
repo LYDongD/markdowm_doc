@@ -1,0 +1,85 @@
+
+
+#define Account  yuedong.li@xhuabu.com
+
+1 企业邮箱
+	账号：Account
+	密码: Pss123er
+
+2 Tower
+	账号：Account
+	密码: pss123er
+
+3 跳板机
+	account: yuedong.li
+	password: lyd160912
+	
+4 日志中心
+	account : yuedong.li@xhuabu.com
+	password: lyd123456
+
+
+5 gitLab
+	http://git.xhuabu.com
+ 	账号：Account
+	密码：pss123er
+
+
+6 YQB测试环境数据库
+
+#database_stock
+db_stock.url = jdbc:mysql://rm-wz90nv7rw2z0f99w3o.mysql.rds.aliyuncs.com:3306/stock?useUnicode=true&characterEncoding=utf8
+db_stock.username = xhuabu
+db_stock.password = Xiaohuabu2016
+
+#redis_stock
+redis_stock.hostName = 120.76.134.88
+redis_stock.port = 6380
+redis_stock.usePool = true
+redis_stock.database = 0
+redis_stock.password = xiaohuabu
+
+#jms_stock
+jms_stock.brokeUrl = tcp://120.76.134.88:61616
+jms_stock.userName = admin
+jms_stock.password = eThaiBae5t
+
+mongo_stock_hostName = 120.76.223.75
+mongo_stock_port = 27017
+mongo_stock_dbname = stocklog
+mongo_stock_defaultDbName = admin
+#增加mongo 账户密码
+mongo_stock_userName = admin
+mongo_stock_password = uLahngoo6k
+
+#zookeeper server:port
+zookeeper.server=120.76.134.88:2181
+
+
+
+————— ios —————
+
+瑞彩彩票A：
+developer:Xiong Yong
+account:3389624863@qq.com
+password:Aa11223344
+appId:com.jirun.ruicai
+
+瑞彩彩票B(瑞彩网)
+developer:xiong caiSheng
+account:3389853827@qq.com
+password:Aa11223344
+appId:com.jirun.ruicais1
+
+八度吧1
+developer:Lu Jian
+szjrwl@sina.com		
+Aa11223344
+appId:com.wangdada.badu8s1
+
+八度吧2
+developer:chenzhijiang
+szzrk@sina.cn 
+Aa11223344
+appId”com.wangdada.badu8
+	
